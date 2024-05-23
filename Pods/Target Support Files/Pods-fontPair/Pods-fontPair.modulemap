@@ -1,0 +1,6 @@
+framework module Pods_fontPair {
+  umbrella header "Pods-fontPair-umbrella.h"
+
+  export *
+  module * { export * }
+}

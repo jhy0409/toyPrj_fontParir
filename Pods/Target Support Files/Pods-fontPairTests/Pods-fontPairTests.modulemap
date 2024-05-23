@@ -1,0 +1,6 @@
+framework module Pods_fontPairTests {
+  umbrella header "Pods-fontPairTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
